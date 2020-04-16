@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-meme-suite.svg)](https://github.com/icaoberg/singularity-meme-suite/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
+[MEME Suite](/images/meme-suite.jpg)
+
 A simple container with [meme-suite](http://meme-suite.org/index.html).
 
 ## Building the container
