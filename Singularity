@@ -7,7 +7,7 @@ IncludeCmd: yes
     AUTHOR icaoberg
     EMAIL icaoberg@alumni.cmu.edu
     WEBSITE http://www.andrew.cmu.edu/~icaoberg
-    VERSION 2.2.5
+    VERSION 5.1.0
 
 %post
     apt-get update && apt-get install -y \
