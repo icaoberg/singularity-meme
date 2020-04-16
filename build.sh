@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP="meme-suite"
-VERSION=5.0.0
+VERSION=5.1.0
 OS=debian-dusty
 IMAGE=singularity-"$OS"-"$APP"-v"$VERSION".sif
 DEFINITION=Singularity
