@@ -1,5 +1,7 @@
 # singularity-meme-suite
-![Release](https://img.shields.io/badge/release-prealpha-red.svg)
+[![Hosted](https://img.shields.io/badge/hosted-sylabs.io-green.svg)](https://cloud.sylabs.io/library/icaoberg/default/meme-suite)
+![Release](https://img.shields.io/badge/release-v5.0.0-green.svg)
+[![Build Status](https://travis-ci.org/icaoberg/singularity-meme-suite.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-meme-suite)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-meme-suite.svg)](https://github.com/icaoberg/singularity-meme-suite/issues)
 [![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-meme-suite.svg)](https://github.com/icaoberg/singularity-meme-suite/network)
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-meme-suite.svg)](https://github.com/icaoberg/singularity-meme-suite/stargazers)
