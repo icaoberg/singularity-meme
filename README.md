@@ -11,6 +11,10 @@
 
 A simple container with [meme-suite](http://meme-suite.org/index.html).
 
+## Pre-requisites
+
+* [Singularity v3.5.+](https://sylabs.io/docs/).
+
 ## Building the container
 ```
 bash ./build.sh
