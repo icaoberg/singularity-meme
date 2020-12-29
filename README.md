@@ -11,22 +11,23 @@
 
 A simple container with [meme-suite](http://meme-suite.org/index.html).
 
-## Pre-requisites
 
-* [Singularity v3.5.+](https://sylabs.io/docs/).
+## Building the image using the recipe
 
-## Building the container
+### To build the image locally
+Run the script `build.sh` to build image locally.
+
 ```
 bash ./build.sh
 ```
 
-## Disclaimer
-
-[![Wold you buy me some coffee?](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/icaoberg)
-
-I am nothing but a humble programmer creating the container for this wonderful app.
+## Alternative
+```
+spack install meme
+spack load meme
+```
 
 ---
-[![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
+[![PSC](http://www.andrew.cmu.edu/user/icaoberg/images/logos/psc.png)](http://www.psc.edu)
 
-Copyleft © 2020 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
+[icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Pittsburgh Supercomputing Center](http://www.psc.edu) in the [Mellon College of Science](https://www.cmu.edu/mcs/) at [Carnegie Mellon University](http://www.cmu.edu).
